@@ -98,6 +98,19 @@
         <archive path="C:/eclipse_import-github/zk-8.6.0.1/zul.jar" source="C:/eclipse_import-github/zk-8.6.0.1/zul-sources.jar"/>
         <archive path="C:/eclipse_import-github/zk-8.6.0.1/zweb.jar" source="C:/eclipse_import-github/zk-8.6.0.1/zweb-sources.jar"/>
     </library>
+    <library name="zk-9.6.0.1" systemlibrary="false">
+        <archive path="C:/eclipse_import-github/zk-9.6.0.1/dist/lib/zcommon.jar" source="C:/eclipse_import-github/zk-9.6.0.1/dist/src/zcommon-sources.jar"/>
+        <archive path="C:/eclipse_import-github/zk-9.6.0.1/dist/lib/zel.jar" source="C:/eclipse_import-github/zk-9.6.0.1/dist/src/zel-sources.jar"/>
+        <archive path="C:/eclipse_import-github/zk-9.6.0.1/dist/lib/zhtml.jar" source="C:/eclipse_import-github/zk-9.6.0.1/dist/src/zhtml-sources.jar"/>
+        <archive path="C:/eclipse_import-github/zk-9.6.0.1/dist/lib/zk.jar" source="C:/eclipse_import-github/zk-9.6.0.1/dist/src/zk-sources.jar"/>
+        <archive path="C:/eclipse_import-github/zk-9.6.0.1/dist/lib/zkbind.jar" source="C:/eclipse_import-github/zk-9.6.0.1/dist/src/zkbind-sources.jar"/>
+        <archive path="C:/eclipse_import-github/zk-9.6.0.1/dist/lib/zkplus.jar" source="C:/eclipse_import-github/zk-9.6.0.1/dist/src/zkplus-sources.jar"/>
+        <archive path="C:/eclipse_import-github/zk-9.6.0.1/dist/lib/zkplus-legacy.jar" source="C:/eclipse_import-github/zk-9.6.0.1/dist/src/zkplus-legacy-sources.jar"/>
+        <archive path="C:/eclipse_import-github/zk-9.6.0.1/dist/lib/zkwebfragment.jar" source="C:/eclipse_import-github/zk-9.6.0.1/dist/src/zkwebfragment-sources.jar"/>
+        <archive path="C:/eclipse_import-github/zk-9.6.0.1/dist/lib/zul.jar" source="C:/eclipse_import-github/zk-9.6.0.1/dist/src/zul-sources.jar"/>
+        <archive path="C:/eclipse_import-github/zk-9.6.0.1/dist/lib/zweb.jar" source="C:/eclipse_import-github/zk-9.6.0.1/dist/src/zweb-sources.jar"/>
+        <archive path="C:/eclipse_import-github/zk-9.6.0.1/dist/lib/zweb-dsp.jar" source="C:/eclipse_import-github/zk-9.6.0.1/dist/src/zweb-dsp-sources.jar"/>
+    </library>
     <library name="zk-ckeditor-3.5.2" systemlibrary="false">
         <archive path="C:/eclipse_import-github/zk-ckeditor-3.5.2/ckez.jar" source="C:/eclipse_import-github/zk-ckeditor-3.5.2/ckez-sources.jar"/>
     </library>
@@ -119,13 +132,31 @@
         <archive path="C:/eclipse_import-github/zk-8.6.0.1/ext/slf4j-jdk14.jar"/>
         <archive path="C:/eclipse_import-github/zk-8.6.0.1/ext/zsoup.jar"/>
     </library>
+    <library name="zk-ext-9.6.0.1" systemlibrary="false">
+        <archive path="C:/eclipse_import-github/zk-9.6.0.1/dist/lib/ext/bsh.jar"/>
+        <archive path="C:/eclipse_import-github/zk-9.6.0.1/dist/lib/ext/closure-compiler.jar"/>
+        <archive path="C:/eclipse_import-github/zk-9.6.0.1/dist/lib/ext/commons-fileupload.jar"/>
+        <archive path="C:/eclipse_import-github/zk-9.6.0.1/dist/lib/ext/commons-io.jar"/>
+        <archive path="C:/eclipse_import-github/zk-9.6.0.1/dist/lib/ext/javassist.jar"/>
+        <archive path="C:/eclipse_import-github/zk-9.6.0.1/dist/lib/ext/slf4j-api.jar"/>
+        <archive path="C:/eclipse_import-github/zk-9.6.0.1/dist/lib/ext/zsoup.jar"/>
+    </library>
     <library name="zk-theme-8.6.0.1" systemlibrary="false">
         <archive path="C:/eclipse_import-github/zk-8.6.0.1/theme/breeze.jar"/>
         <archive path="C:/eclipse_import-github/zk-8.6.0.1/theme/iceblue_c.jar"/>
         <archive path="C:/eclipse_import-github/zk-8.6.0.1/theme/sapphire.jar"/>
         <archive path="C:/eclipse_import-github/zk-8.6.0.1/theme/silvertail.jar"/>
     </library>
+    <library name="zk-theme-9.6.0.1" systemlibrary="false">
+        <archive path="C:/eclipse_import-github/zk-9.6.0.1/dist/lib/theme/breeze.jar"/>
+        <archive path="C:/eclipse_import-github/zk-9.6.0.1/dist/lib/theme/iceblue_c.jar"/>
+        <archive path="C:/eclipse_import-github/zk-9.6.0.1/dist/lib/theme/sapphire.jar"/>
+        <archive path="C:/eclipse_import-github/zk-9.6.0.1/dist/lib/theme/silvertail.jar"/>
+    </library>
     <library name="zk-zkforge-8.6.0.1" systemlibrary="false">
         <archive path="C:/eclipse_import-github/zk-8.6.0.1/zkforge/flashchart.jar"/>
+    </library>
+    <library name="zk-zkforge-9.6.0.1" systemlibrary="false">
+        <archive path="C:/eclipse_import-github/zk-9.6.0.1/dist/lib/zkforge/flashchart.jar"/>
     </library>
 </eclipse-userlibraries>
