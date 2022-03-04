@@ -1,2 +1,7 @@
+<<<<<<< Updated upstream
 syntax: glob
 _libraries_raw_data/*
+=======
+syntax: glob
+_libraries_raw_data/*
+>>>>>>> Stashed changes

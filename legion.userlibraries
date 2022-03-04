@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <eclipse-userlibraries version="2">
     <library name="aws-java-sdk-1.11.475" systemlibrary="false">
@@ -133,3 +134,140 @@
         <archive path="D:/MyModule/eclipse_import/zk-8.6.0.1/zkforge/flashchart.jar"/>
     </library>
 </eclipse-userlibraries>
+=======
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<eclipse-userlibraries version="2">
+    <library name="aws-java-sdk-1.11.475" systemlibrary="false">
+        <archive javadoc="jar:file:/D:/MyModule/eclipse_import/aws-java-sdk-1.11.475/aws-java-sdk-1.11.475-javadoc.jar!/" path="D:/MyModule/eclipse_import/aws-java-sdk-1.11.475/aws-java-sdk-1.11.475.jar" source="D:/MyModule/eclipse_import/aws-java-sdk-1.11.475/aws-java-sdk-1.11.475-sources.jar"/>
+        <archive path="D:/MyModule/eclipse_import/aws-java-sdk-1.11.475/ion-java-1.0.2.jar"/>
+    </library>
+    <library name="commons-beanutils-1.9.3" systemlibrary="false">
+        <archive javadoc="jar:file:/D:/MyModule/eclipse_import/commons/commons-beanutils-1.9.3-javadoc.jar!/" path="D:/MyModule/eclipse_import/commons/commons-beanutils-1.9.3.jar" source="D:/MyModule/eclipse_import/commons/commons-beanutils-1.9.3-sources.jar"/>
+    </library>
+    <library name="commons-codec-1.10" systemlibrary="false">
+        <archive path="D:/MyModule/eclipse_import/commons/commons-codec-1.10.jar"/>
+    </library>
+    <library name="commons-codec-1.13" systemlibrary="false">
+        <archive path="D:/MyModule/eclipse_import/commons/commons-codec-1.13.jar"/>
+    </library>
+    <library name="commons-collections4-4.4" systemlibrary="false">
+        <archive path="D:/MyModule/eclipse_import/commons/commons-collections4-4.4.jar"/>
+    </library>
+    <library name="commons-compress-1.19" systemlibrary="false">
+        <archive path="D:/MyModule/eclipse_import/commons/commons-compress-1.19.jar"/>
+    </library>
+    <library name="commons-lang-2.6" systemlibrary="false">
+        <archive path="D:/MyModule/eclipse_import/commons/commons-lang-2.6.jar"/>
+    </library>
+    <library name="commons-logging-1.1.1" systemlibrary="false">
+        <archive path="D:/MyModule/eclipse_import/commons/commons-logging-1.1.1.jar"/>
+    </library>
+    <library name="commons-logging-1.2" systemlibrary="false">
+        <archive path="D:/MyModule/eclipse_import/commons/commons-logging-1.2.jar"/>
+    </library>
+    <library name="commons-math3-3.6.1" systemlibrary="false">
+        <archive path="D:/MyModule/eclipse_import/commons/commons-math3-3.6.1.jar"/>
+    </library>
+    <library name="gson-2.8.5" systemlibrary="false">
+        <archive javadoc="jar:file:/D:/MyModule/eclipse_import/gson-2.8.5/gson-2.8.5-javadoc.jar!/" path="D:/MyModule/eclipse_import/gson-2.8.5/gson-2.8.5.jar" source="D:/MyModule/eclipse_import/gson-2.8.5/gson-2.8.5-sources.jar"/>
+    </library>
+    <library name="HmsKernel-0.0.4" systemlibrary="false">
+        <archive path="D:/MyModule/eclipse_import/legion/HmsKernel-0.0.4.jar"/>
+    </library>
+    <library name="httpcomponents-client-4.5.6" systemlibrary="false">
+        <archive path="D:/MyModule/eclipse_import/httpcomponents-client-4.5.6/fluent-hc-4.5.6.jar"/>
+        <archive path="D:/MyModule/eclipse_import/httpcomponents-client-4.5.6/httpclient-4.5.6.jar"/>
+        <archive path="D:/MyModule/eclipse_import/httpcomponents-client-4.5.6/httpclient-cache-4.5.6.jar"/>
+        <archive path="D:/MyModule/eclipse_import/httpcomponents-client-4.5.6/httpclient-win-4.5.6.jar"/>
+        <archive path="D:/MyModule/eclipse_import/httpcomponents-client-4.5.6/httpcore-4.4.10.jar"/>
+        <archive path="D:/MyModule/eclipse_import/httpcomponents-client-4.5.6/httpmime-4.5.6.jar"/>
+        <archive path="D:/MyModule/eclipse_import/httpcomponents-client-4.5.6/jna-4.4.0.jar"/>
+        <archive path="D:/MyModule/eclipse_import/httpcomponents-client-4.5.6/jna-platform-4.4.0.jar"/>
+    </library>
+    <library name="jackson-2.6" systemlibrary="false">
+        <archive path="D:/MyModule/eclipse_import/jackson-2.6/jackson-annotations-2.6.0.jar"/>
+        <archive path="D:/MyModule/eclipse_import/jackson-2.6/jackson-core-2.6.7.jar"/>
+        <archive path="D:/MyModule/eclipse_import/jackson-2.6/jackson-databind-2.6.7.1.jar"/>
+        <archive path="D:/MyModule/eclipse_import/jackson-2.6/jackson-dataformat-cbor-2.6.7.jar"/>
+    </library>
+    <library name="legion_module_0.4.0" systemlibrary="false">
+        <archive path="D:/MyModule/eclipse_import/legion/legion_module_0.4.0.jar"/>
+    </library>
+    <library name="legion_module_0.5.1" systemlibrary="false">
+        <archive path="D:/MyModule/eclipse_import/legion/legion_module_0.5.1.jar"/>
+    </library>
+    <library name="legion_module_0.6.7" systemlibrary="false">
+        <archive path="D:/MyModule/eclipse_import/legion/legion_module_0.6.7.jar"/>
+    </library>
+    <library name="legion_module_0.7.1" systemlibrary="false">
+        <archive path="D:/MyModule/eclipse_import/legion/legion_module_0.7.1.jar"/>
+    </library>
+    <library name="mysql-connector-java-5.1.44" systemlibrary="false">
+        <archive path="D:/MyModule/eclipse_import/mysql-connector-java-5.1.44/mysql-connector-java-5.1.44-bin.jar"/>
+    </library>
+    <library name="org.json-20130603" systemlibrary="false">
+        <archive path="D:/MyModule/eclipse_import/org.json-20130603/org.json-20130603.jar" source="D:/MyModule/eclipse_import/org.json-20130603/org.json-20130603-sources.jar"/>
+    </library>
+    <library name="poi-4.1.2" systemlibrary="false">
+        <archive path="D:/MyModule/eclipse_import/poi-4.1.2/poi-4.1.2.jar"/>
+        <archive path="D:/MyModule/eclipse_import/poi-4.1.2/poi-examples-4.1.2.jar"/>
+        <archive path="D:/MyModule/eclipse_import/poi-4.1.2/poi-excelant-4.1.2.jar"/>
+        <archive path="D:/MyModule/eclipse_import/poi-4.1.2/poi-ooxml-4.1.2.jar"/>
+        <archive path="D:/MyModule/eclipse_import/poi-4.1.2/poi-ooxml-schemas-4.1.2.jar"/>
+        <archive path="D:/MyModule/eclipse_import/poi-4.1.2/poi-scratchpad-4.1.2.jar"/>
+        <archive path="D:/MyModule/eclipse_import/poi-4.1.2/ooxml-lib/curvesapi-1.06.jar"/>
+        <archive path="D:/MyModule/eclipse_import/poi-4.1.2/ooxml-lib/xmlbeans-3.1.0.jar"/>
+        <archive path="D:/MyModule/eclipse_import/poi-4.1.2/lib/activation-1.1.1.jar"/>
+        <archive path="D:/MyModule/eclipse_import/poi-4.1.2/lib/jaxb-api-2.3.1.jar"/>
+        <archive path="D:/MyModule/eclipse_import/poi-4.1.2/lib/jaxb-core-2.3.0.1.jar"/>
+        <archive path="D:/MyModule/eclipse_import/poi-4.1.2/lib/jaxb-impl-2.3.2.jar"/>
+        <archive path="D:/MyModule/eclipse_import/poi-4.1.2/lib/SparseBitSet-1.2.jar"/>
+    </library>
+    <library name="UCanAccess-3.0.7" systemlibrary="false">
+        <archive path="D:/MyModule/eclipse_import/UCanAccess-3.0.7/ucanaccess-3.0.7.jar"/>
+        <archive path="D:/MyModule/eclipse_import/UCanAccess-3.0.7/lib/hsqldb.jar"/>
+        <archive path="D:/MyModule/eclipse_import/UCanAccess-3.0.7/lib/jackcess-2.1.3.jar"/>
+    </library>
+    <library name="zk-8.6.0.1" systemlibrary="false">
+        <archive path="D:/MyModule/eclipse_import/zk-8.6.0.1/zcommon.jar" source="D:/MyModule/eclipse_import/zk-8.6.0.1/zcommon-sources.jar"/>
+        <archive path="D:/MyModule/eclipse_import/zk-8.6.0.1/zel.jar" source="D:/MyModule/eclipse_import/zk-8.6.0.1/zel-sources.jar"/>
+        <archive path="D:/MyModule/eclipse_import/zk-8.6.0.1/zhtml.jar" source="D:/MyModule/eclipse_import/zk-8.6.0.1/zhtml-sources.jar"/>
+        <archive path="D:/MyModule/eclipse_import/zk-8.6.0.1/zk.jar"/>
+        <archive path="D:/MyModule/eclipse_import/zk-8.6.0.1/zkbind.jar" source="D:/MyModule/eclipse_import/zk-8.6.0.1/zkbind-sources.jar"/>
+        <archive path="D:/MyModule/eclipse_import/zk-8.6.0.1/zkplus.jar" source="D:/MyModule/eclipse_import/zk-8.6.0.1/zkplus-sources.jar"/>
+        <archive path="D:/MyModule/eclipse_import/zk-8.6.0.1/zkwebfragment.jar" source="D:/MyModule/eclipse_import/zk-8.6.0.1/zkwebfragment-sources.jar"/>
+        <archive path="D:/MyModule/eclipse_import/zk-8.6.0.1/zul.jar" source="D:/MyModule/eclipse_import/zk-8.6.0.1/zul-sources.jar"/>
+        <archive path="D:/MyModule/eclipse_import/zk-8.6.0.1/zweb.jar" source="D:/MyModule/eclipse_import/zk-8.6.0.1/zweb-sources.jar"/>
+    </library>
+    <library name="zk-ckeditor-3.5.2" systemlibrary="false">
+        <archive path="D:/MyModule/eclipse_import/zk-ckeditor-3.5.2/ckez.jar" source="D:/MyModule/eclipse_import/zk-ckeditor-3.5.2/ckez-sources.jar"/>
+    </library>
+    <library name="zk-ext-8.6.0.1" systemlibrary="false">
+        <archive path="D:/MyModule/eclipse_import/zk-8.6.0.1/ext/args4j.jar"/>
+        <archive path="D:/MyModule/eclipse_import/zk-8.6.0.1/ext/bsh.jar"/>
+        <archive path="D:/MyModule/eclipse_import/zk-8.6.0.1/ext/closure-compiler-externs.jar"/>
+        <archive path="D:/MyModule/eclipse_import/zk-8.6.0.1/ext/closure-compiler-unshaded.jar"/>
+        <archive path="D:/MyModule/eclipse_import/zk-8.6.0.1/ext/commons-codec.jar"/>
+        <archive path="D:/MyModule/eclipse_import/zk-8.6.0.1/ext/commons-fileupload.jar"/>
+        <archive path="D:/MyModule/eclipse_import/zk-8.6.0.1/ext/commons-io.jar"/>
+        <archive path="D:/MyModule/eclipse_import/zk-8.6.0.1/ext/error_prone_annotations.jar"/>
+        <archive path="D:/MyModule/eclipse_import/zk-8.6.0.1/ext/guava.jar"/>
+        <archive path="D:/MyModule/eclipse_import/zk-8.6.0.1/ext/javassist.jar"/>
+        <archive path="D:/MyModule/eclipse_import/zk-8.6.0.1/ext/jsinterop-annotations.jar"/>
+        <archive path="D:/MyModule/eclipse_import/zk-8.6.0.1/ext/jsr305.jar"/>
+        <archive path="D:/MyModule/eclipse_import/zk-8.6.0.1/ext/protobuf-java.jar"/>
+        <archive path="D:/MyModule/eclipse_import/zk-8.6.0.1/ext/slf4j-api.jar"/>
+        <archive path="D:/MyModule/eclipse_import/zk-8.6.0.1/ext/slf4j-jdk14.jar"/>
+        <archive path="D:/MyModule/eclipse_import/zk-8.6.0.1/ext/zsoup.jar"/>
+    </library>
+    <library name="zk-theme-8.6.0.1" systemlibrary="false">
+        <archive path="D:/MyModule/eclipse_import/zk-8.6.0.1/theme/breeze.jar"/>
+        <archive path="D:/MyModule/eclipse_import/zk-8.6.0.1/theme/iceblue_c.jar"/>
+        <archive path="D:/MyModule/eclipse_import/zk-8.6.0.1/theme/sapphire.jar"/>
+        <archive path="D:/MyModule/eclipse_import/zk-8.6.0.1/theme/silvertail.jar"/>
+    </library>
+    <library name="zk-zkforge-8.6.0.1" systemlibrary="false">
+        <archive path="D:/MyModule/eclipse_import/zk-8.6.0.1/zkforge/flashchart.jar"/>
+    </library>
+</eclipse-userlibraries>
+>>>>>>> Stashed changes
