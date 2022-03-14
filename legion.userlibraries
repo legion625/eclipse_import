@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <eclipse-userlibraries version="2">
     <library name="aws-java-sdk-1.11.475" systemlibrary="false">
-        <archive javadoc="jar:file:/C:/eclipse_import-github/aws-java-sdk-1.11.475/aws-java-sdk-1.11.475-sources.jar!/" path="C:/eclipse_import-github/aws-java-sdk-1.11.475/aws-java-sdk-1.11.475.jar" source="C:/eclipse_import-github/aws-java-sdk-1.11.475/aws-java-sdk-1.11.475-sources.jar"/>
+        <archive javadoc="jar:file:/C:/eclipse_import-github/aws-java-sdk-1.11.475/aws-java-sdk-1.11.475-javadoc.jar!/" path="C:/eclipse_import-github/aws-java-sdk-1.11.475/aws-java-sdk-1.11.475.jar" source="C:/eclipse_import-github/aws-java-sdk-1.11.475/aws-java-sdk-1.11.475-sources.jar"/>
         <archive path="C:/eclipse_import-github/aws-java-sdk-1.11.475/ion-java-1.0.2.jar"/>
     </library>
     <library name="commons-beanutils-1.9.3" systemlibrary="false">
@@ -30,6 +30,10 @@
     </library>
     <library name="commons-math3-3.6.1" systemlibrary="false">
         <archive path="C:/eclipse_import-github/commons/commons-math3-3.6.1.jar"/>
+    </library>
+    <library name="excel-streaming-reader-2.3.5" systemlibrary="false">
+        <archive path="C:/eclipse_import-github/excel-streaming-reader-2.3.5/excel-streaming-reader-2.3.5.jar"/>
+        <archive path="C:/eclipse_import-github/excel-streaming-reader-2.3.5/poi-shared-strings-1.0.4.jar"/>
     </library>
     <library name="gson-2.8.5" systemlibrary="false">
         <archive javadoc="jar:file:/C:/eclipse_import-github/gson-2.8.5/gson-2.8.5-javadoc.jar!/" path="C:/eclipse_import-github/gson-2.8.5/gson-2.8.5.jar" source="C:/eclipse_import-github/gson-2.8.5/gson-2.8.5-sources.jar"/>
@@ -94,6 +98,10 @@
     </library>
     <library name="slf4j-1.7.36" systemlibrary="false">
         <archive javadoc="jar:file:/C:/eclipse_import-github/slf4j-1.7.36/slf4j-api-1.7.36-javadoc.jar!/" path="C:/eclipse_import-github/slf4j-1.7.36/slf4j-api-1.7.36.jar" source="C:/eclipse_import-github/slf4j-1.7.36/slf4j-api-1.7.36-sources.jar"/>
+    </library>
+    <library name="stanford-corenlp-4.2.0" systemlibrary="false">
+        <archive javadoc="jar:file:/C:/eclipse_import-github/stanford-corenlp-4.2.0/stanford-corenlp-4.2.0-javadoc.jar!/" path="C:/eclipse_import-github/stanford-corenlp-4.2.0/stanford-corenlp-4.2.0.jar" source="C:/eclipse_import-github/stanford-corenlp-4.2.0/stanford-corenlp-4.2.0-sources.jar"/>
+        <archive path="C:/eclipse_import-github/stanford-corenlp-4.2.0/stanford-corenlp-4.2.0-models.jar"/>
     </library>
     <library name="UCanAccess-3.0.7" systemlibrary="false">
         <archive path="C:/eclipse_import-github/UCanAccess-3.0.7/ucanaccess-3.0.7.jar"/>
