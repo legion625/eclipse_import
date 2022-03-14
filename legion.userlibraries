@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <eclipse-userlibraries version="2">
+    <library name="aws-java-sdk-1.11.475" systemlibrary="false">
+        <archive javadoc="jar:file:/C:/eclipse_import-github/aws-java-sdk-1.11.475/aws-java-sdk-1.11.475-javadoc.jar!/" path="C:/eclipse_import-github/aws-java-sdk-1.11.475/aws-java-sdk-1.11.475.jar" source="C:/eclipse_import-github/aws-java-sdk-1.11.475/aws-java-sdk-1.11.475-sources.jar"/>
+        <archive path="C:/eclipse_import-github/aws-java-sdk-1.11.475/ion-java-1.0.2.jar"/>
+    </library>
     <library name="commons-beanutils-1.9.3" systemlibrary="false">
         <archive javadoc="jar:file:/C:/eclipse_import-github/commons/commons-beanutils-1.9.3-javadoc.jar!/" path="C:/eclipse_import-github/commons/commons-beanutils-1.9.3.jar" source="C:/eclipse_import-github/commons/commons-beanutils-1.9.3-sources.jar"/>
     </library>
