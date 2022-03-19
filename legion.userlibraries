@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <eclipse-userlibraries version="2">
-    <library name="aws-java-sdk-1.11.475" systemlibrary="false">
-        <archive javadoc="jar:file:/C:/eclipse_import-github/aws-java-sdk-1.11.475/aws-java-sdk-1.11.475-javadoc.jar!/" path="C:/eclipse_import-github/aws-java-sdk-1.11.475/aws-java-sdk-1.11.475.jar" source="C:/eclipse_import-github/aws-java-sdk-1.11.475/aws-java-sdk-1.11.475-sources.jar"/>
-        <archive path="C:/eclipse_import-github/aws-java-sdk-1.11.475/ion-java-1.0.2.jar"/>
+    <library name="aws_java_sdk_1.11.475" systemlibrary="false">
+        <archive javadoc="jar:file:/C:/eclipse_import-github/aws_java_sdk_1.11.475/aws_java_sdk_1.11.475-javadoc.jar!/" path="C:/eclipse_import-github/aws_java_sdk_1.11.475/aws_java_sdk_1.11.475.jar" source="C:/eclipse_import-github/aws_java_sdk_1.11.475/aws_java_sdk_1.11.475-sources.jar"/>
+        <archive path="C:/eclipse_import-github/aws_java_sdk_1.11.475/ion_java_1.0.2.jar"/>
     </library>
-    <library name="commons-beanutils-1.9.3" systemlibrary="false">
+    <library name="commons_beanutils_1.9.3" systemlibrary="false">
         <archive javadoc="jar:file:/C:/eclipse_import-github/commons/commons-beanutils-1.9.3-javadoc.jar!/" path="C:/eclipse_import-github/commons/commons-beanutils-1.9.3.jar" source="C:/eclipse_import-github/commons/commons-beanutils-1.9.3-sources.jar"/>
     </library>
-    <library name="commons-codec-1.10" systemlibrary="false">
+    <library name="commons_codec_1.10" systemlibrary="false">
         <archive path="C:/eclipse_import-github/commons/commons-codec-1.10.jar"/>
     </library>
-    <library name="commons-codec-1.13" systemlibrary="false">
+    <library name="commons_codec_1.13" systemlibrary="false">
         <archive path="C:/eclipse_import-github/commons/commons-codec-1.13.jar"/>
     </library>
-    <library name="commons-collections4-4.4" systemlibrary="false">
+    <library name="commons_collections4_4.4" systemlibrary="false">
         <archive path="C:/eclipse_import-github/commons/commons-collections4-4.4.jar"/>
     </library>
-    <library name="commons-compress-1.19" systemlibrary="false">
+    <library name="commons_compress_1.19" systemlibrary="false">
         <archive path="C:/eclipse_import-github/commons/commons-compress-1.19.jar"/>
     </library>
-    <library name="commons-lang-2.6" systemlibrary="false">
+    <library name="commons_lang_2.6" systemlibrary="false">
         <archive path="C:/eclipse_import-github/commons/commons-lang-2.6.jar"/>
     </library>
-    <library name="commons-logging-1.1.1" systemlibrary="false">
+    <library name="commons_logging_1.1.1" systemlibrary="false">
         <archive path="C:/eclipse_import-github/commons/commons-logging-1.1.1.jar"/>
     </library>
-    <library name="commons-logging-1.2" systemlibrary="false">
+    <library name="commons_logging_1.2" systemlibrary="false">
         <archive path="C:/eclipse_import-github/commons/commons-logging-1.2.jar"/>
     </library>
-    <library name="commons-math3-3.6.1" systemlibrary="false">
+    <library name="commons_math3_3.6.1" systemlibrary="false">
         <archive path="C:/eclipse_import-github/commons/commons-math3-3.6.1.jar"/>
     </library>
-    <library name="excel-streaming-reader-2.3.5" systemlibrary="false">
+    <library name="excel_streaming_reader_2.3.5" systemlibrary="false">
         <archive path="C:/eclipse_import-github/excel-streaming-reader-2.3.5/excel-streaming-reader-2.3.5.jar"/>
         <archive path="C:/eclipse_import-github/excel-streaming-reader-2.3.5/poi-shared-strings-1.0.4.jar"/>
     </library>
-    <library name="gson-2.8.5" systemlibrary="false">
+    <library name="gson_2.8.5" systemlibrary="false">
         <archive javadoc="jar:file:/C:/eclipse_import-github/gson-2.8.5/gson-2.8.5-javadoc.jar!/" path="C:/eclipse_import-github/gson-2.8.5/gson-2.8.5.jar" source="C:/eclipse_import-github/gson-2.8.5/gson-2.8.5-sources.jar"/>
     </library>
-    <library name="HmsKernel-0.0.4" systemlibrary="false">
+    <library name="HmsKernel_0.0.4" systemlibrary="false">
         <archive path="C:/eclipse_import-github/legion/HmsKernel-0.0.4.jar"/>
     </library>
-    <library name="httpcomponents-client-4.5.6" systemlibrary="false">
+    <library name="httpcomponents_client_4.5.6" systemlibrary="false">
         <archive path="C:/eclipse_import-github/httpcomponents-client-4.5.6/fluent-hc-4.5.6.jar"/>
         <archive path="C:/eclipse_import-github/httpcomponents-client-4.5.6/httpclient-4.5.6.jar"/>
         <archive path="C:/eclipse_import-github/httpcomponents-client-4.5.6/httpclient-cache-4.5.6.jar"/>
@@ -51,11 +51,14 @@
         <archive path="C:/eclipse_import-github/httpcomponents-client-4.5.6/jna-4.4.0.jar"/>
         <archive path="C:/eclipse_import-github/httpcomponents-client-4.5.6/jna-platform-4.4.0.jar"/>
     </library>
-    <library name="jackson-2.6" systemlibrary="false">
+    <library name="jackson_2.6" systemlibrary="false">
         <archive path="C:/eclipse_import-github/jackson-2.6/jackson-annotations-2.6.0.jar"/>
         <archive path="C:/eclipse_import-github/jackson-2.6/jackson-core-2.6.7.jar"/>
         <archive path="C:/eclipse_import-github/jackson-2.6/jackson-databind-2.6.7.1.jar"/>
         <archive path="C:/eclipse_import-github/jackson-2.6/jackson-dataformat-cbor-2.6.7.jar"/>
+    </library>
+    <library name="json" systemlibrary="false">
+        <archive path="C:/eclipse_import-github/org.json-20130603/org.json-20130603.jar" source="C:/eclipse_import-github/org.json-20130603/org.json-20130603-sources.jar"/>
     </library>
     <library name="legion_module_0.4.0" systemlibrary="false">
         <archive path="C:/eclipse_import-github/legion/legion_module_0.4.0.jar"/>
@@ -69,19 +72,16 @@
     <library name="legion_module_0.7.1" systemlibrary="false">
         <archive path="C:/eclipse_import-github/legion/legion_module_0.7.1.jar"/>
     </library>
-    <library name="logback-classic-1.2.11" systemlibrary="false">
+    <library name="logback_classic_1.2.11" systemlibrary="false">
         <archive javadoc="jar:file:/C:/eclipse_import-github/logback-classic-1.2.11/logback-classic-1.2.11-javadoc.jar!/" path="C:/eclipse_import-github/logback-classic-1.2.11/logback-classic-1.2.11.jar" source="C:/eclipse_import-github/logback-classic-1.2.11/logback-classic-1.2.11-sources.jar"/>
     </library>
-    <library name="logback-core-1.2.11" systemlibrary="false">
+    <library name="logback_core_1.2.11" systemlibrary="false">
         <archive javadoc="jar:file:/C:/eclipse_import-github/logback-core-1.2.11/logback-core-1.2.11-javadoc.jar!/" path="C:/eclipse_import-github/logback-core-1.2.11/logback-core-1.2.11.jar" source="C:/eclipse_import-github/logback-core-1.2.11/logback-core-1.2.11-sources.jar"/>
     </library>
-    <library name="mysql-connector-java-5.1.44" systemlibrary="false">
+    <library name="mysql_connector_java_5.1.44" systemlibrary="false">
         <archive path="C:/eclipse_import-github/mysql-connector-java-5.1.44/mysql-connector-java-5.1.44-bin.jar"/>
     </library>
-    <library name="org.json-20130603" systemlibrary="false">
-        <archive path="C:/eclipse_import-github/org.json-20130603/org.json-20130603.jar" source="C:/eclipse_import-github/org.json-20130603/org.json-20130603-sources.jar"/>
-    </library>
-    <library name="poi-4.1.2" systemlibrary="false">
+    <library name="poi_4.1.2" systemlibrary="false">
         <archive path="C:/eclipse_import-github/poi-4.1.2/poi-4.1.2.jar"/>
         <archive path="C:/eclipse_import-github/poi-4.1.2/poi-examples-4.1.2.jar"/>
         <archive path="C:/eclipse_import-github/poi-4.1.2/poi-excelant-4.1.2.jar"/>
@@ -96,19 +96,19 @@
         <archive path="C:/eclipse_import-github/poi-4.1.2/lib/jaxb-impl-2.3.2.jar"/>
         <archive path="C:/eclipse_import-github/poi-4.1.2/lib/SparseBitSet-1.2.jar"/>
     </library>
-    <library name="slf4j-1.7.36" systemlibrary="false">
+    <library name="slf4j_1.7.36" systemlibrary="false">
         <archive javadoc="jar:file:/C:/eclipse_import-github/slf4j-1.7.36/slf4j-api-1.7.36-javadoc.jar!/" path="C:/eclipse_import-github/slf4j-1.7.36/slf4j-api-1.7.36.jar" source="C:/eclipse_import-github/slf4j-1.7.36/slf4j-api-1.7.36-sources.jar"/>
     </library>
-    <library name="stanford-corenlp-4.2.0" systemlibrary="false">
+    <library name="stanford_corenlp_4.2.0" systemlibrary="false">
         <archive javadoc="jar:file:/C:/eclipse_import-github/stanford-corenlp-4.2.0/stanford-corenlp-4.2.0-javadoc.jar!/" path="C:/eclipse_import-github/stanford-corenlp-4.2.0/stanford-corenlp-4.2.0.jar" source="C:/eclipse_import-github/stanford-corenlp-4.2.0/stanford-corenlp-4.2.0-sources.jar"/>
         <archive path="C:/eclipse_import-github/stanford-corenlp-4.2.0/stanford-corenlp-4.2.0-models.jar"/>
     </library>
-    <library name="UCanAccess-3.0.7" systemlibrary="false">
+    <library name="UCanAccess_3.0.7" systemlibrary="false">
         <archive path="C:/eclipse_import-github/UCanAccess-3.0.7/ucanaccess-3.0.7.jar"/>
         <archive path="C:/eclipse_import-github/UCanAccess-3.0.7/lib/hsqldb.jar"/>
         <archive path="C:/eclipse_import-github/UCanAccess-3.0.7/lib/jackcess-2.1.3.jar"/>
     </library>
-    <library name="zk-8.6.0.1" systemlibrary="false">
+    <library name="zk_8.6.0.1" systemlibrary="false">
         <archive path="C:/eclipse_import-github/zk-8.6.0.1/zcommon.jar" source="C:/eclipse_import-github/zk-8.6.0.1/zcommon-sources.jar"/>
         <archive path="C:/eclipse_import-github/zk-8.6.0.1/zel.jar" source="C:/eclipse_import-github/zk-8.6.0.1/zel-sources.jar"/>
         <archive path="C:/eclipse_import-github/zk-8.6.0.1/zhtml.jar" source="C:/eclipse_import-github/zk-8.6.0.1/zhtml-sources.jar"/>
@@ -119,7 +119,7 @@
         <archive path="C:/eclipse_import-github/zk-8.6.0.1/zul.jar" source="C:/eclipse_import-github/zk-8.6.0.1/zul-sources.jar"/>
         <archive path="C:/eclipse_import-github/zk-8.6.0.1/zweb.jar" source="C:/eclipse_import-github/zk-8.6.0.1/zweb-sources.jar"/>
     </library>
-    <library name="zk-9.6.0.1" systemlibrary="false">
+    <library name="zk_9.6.0.1" systemlibrary="false">
         <archive path="C:/eclipse_import-github/zk-9.6.0.1/dist/lib/zcommon.jar" source="C:/eclipse_import-github/zk-9.6.0.1/dist/src/zcommon-sources.jar"/>
         <archive path="C:/eclipse_import-github/zk-9.6.0.1/dist/lib/zel.jar" source="C:/eclipse_import-github/zk-9.6.0.1/dist/src/zel-sources.jar"/>
         <archive path="C:/eclipse_import-github/zk-9.6.0.1/dist/lib/zhtml.jar" source="C:/eclipse_import-github/zk-9.6.0.1/dist/src/zhtml-sources.jar"/>
@@ -132,10 +132,10 @@
         <archive path="C:/eclipse_import-github/zk-9.6.0.1/dist/lib/zweb.jar" source="C:/eclipse_import-github/zk-9.6.0.1/dist/src/zweb-sources.jar"/>
         <archive path="C:/eclipse_import-github/zk-9.6.0.1/dist/lib/zweb-dsp.jar" source="C:/eclipse_import-github/zk-9.6.0.1/dist/src/zweb-dsp-sources.jar"/>
     </library>
-    <library name="zk-ckeditor-3.5.2" systemlibrary="false">
+    <library name="zk_ckeditor_3.5.2" systemlibrary="false">
         <archive path="C:/eclipse_import-github/zk-ckeditor-3.5.2/ckez.jar" source="C:/eclipse_import-github/zk-ckeditor-3.5.2/ckez-sources.jar"/>
     </library>
-    <library name="zk-ext-8.6.0.1" systemlibrary="false">
+    <library name="zk_ext_8.6.0.1" systemlibrary="false">
         <archive path="C:/eclipse_import-github/zk-8.6.0.1/ext/args4j.jar"/>
         <archive path="C:/eclipse_import-github/zk-8.6.0.1/ext/bsh.jar"/>
         <archive path="C:/eclipse_import-github/zk-8.6.0.1/ext/closure-compiler-externs.jar"/>
@@ -153,7 +153,7 @@
         <archive path="C:/eclipse_import-github/zk-8.6.0.1/ext/slf4j-jdk14.jar"/>
         <archive path="C:/eclipse_import-github/zk-8.6.0.1/ext/zsoup.jar"/>
     </library>
-    <library name="zk-ext-9.6.0.1" systemlibrary="false">
+    <library name="zk_ext_9.6.0.1" systemlibrary="false">
         <archive path="C:/eclipse_import-github/zk-9.6.0.1/dist/lib/ext/bsh.jar"/>
         <archive path="C:/eclipse_import-github/zk-9.6.0.1/dist/lib/ext/closure-compiler.jar"/>
         <archive path="C:/eclipse_import-github/zk-9.6.0.1/dist/lib/ext/commons-fileupload.jar"/>
@@ -162,22 +162,22 @@
         <archive path="C:/eclipse_import-github/zk-9.6.0.1/dist/lib/ext/slf4j-api.jar"/>
         <archive path="C:/eclipse_import-github/zk-9.6.0.1/dist/lib/ext/zsoup.jar"/>
     </library>
-    <library name="zk-theme-8.6.0.1" systemlibrary="false">
+    <library name="zk_theme_8.6.0.1" systemlibrary="false">
         <archive path="C:/eclipse_import-github/zk-8.6.0.1/theme/breeze.jar"/>
         <archive path="C:/eclipse_import-github/zk-8.6.0.1/theme/iceblue_c.jar"/>
         <archive path="C:/eclipse_import-github/zk-8.6.0.1/theme/sapphire.jar"/>
         <archive path="C:/eclipse_import-github/zk-8.6.0.1/theme/silvertail.jar"/>
     </library>
-    <library name="zk-theme-9.6.0.1" systemlibrary="false">
+    <library name="zk_theme_9.6.0.1" systemlibrary="false">
         <archive path="C:/eclipse_import-github/zk-9.6.0.1/dist/lib/theme/breeze.jar"/>
         <archive path="C:/eclipse_import-github/zk-9.6.0.1/dist/lib/theme/iceblue_c.jar"/>
         <archive path="C:/eclipse_import-github/zk-9.6.0.1/dist/lib/theme/sapphire.jar"/>
         <archive path="C:/eclipse_import-github/zk-9.6.0.1/dist/lib/theme/silvertail.jar"/>
     </library>
-    <library name="zk-zkforge-8.6.0.1" systemlibrary="false">
+    <library name="zk_zkforge_8.6.0.1" systemlibrary="false">
         <archive path="C:/eclipse_import-github/zk-8.6.0.1/zkforge/flashchart.jar"/>
     </library>
-    <library name="zk-zkforge-9.6.0.1" systemlibrary="false">
+    <library name="zk_zkforge_9.6.0.1" systemlibrary="false">
         <archive path="C:/eclipse_import-github/zk-9.6.0.1/dist/lib/zkforge/flashchart.jar"/>
     </library>
 </eclipse-userlibraries>
