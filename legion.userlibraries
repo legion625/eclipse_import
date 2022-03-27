@@ -165,6 +165,9 @@
         <archive path="C:/eclipse_import-github/zk-9.6.0.1/dist/lib/ext/slf4j-api.jar"/>
         <archive path="C:/eclipse_import-github/zk-9.6.0.1/dist/lib/ext/zsoup.jar"/>
     </library>
+    <library name="zk_pivottable_2.5.2(eval)" systemlibrary="false">
+        <archive javadoc="jar:file:/C:/eclipse_import-github/zk_pivottable_2.5.2_eval/zk_pivottable_javadoc_2.5.2.zip!/" path="C:/eclipse_import-github/zk_pivottable_2.5.2_eval/zk_pivottable_eval_2.5.2.jar"/>
+    </library>
     <library name="zk_theme_8.6.0.1" systemlibrary="false">
         <archive path="C:/eclipse_import-github/zk-8.6.0.1/theme/breeze.jar"/>
         <archive path="C:/eclipse_import-github/zk-8.6.0.1/theme/iceblue_c.jar"/>
