@@ -19,6 +19,9 @@
     <library name="commons_compress_1.19" systemlibrary="false">
         <archive path="C:/eclipse_import-github/commons/commons-compress-1.19.jar"/>
     </library>
+    <library name="commons_configuration_1.10" systemlibrary="false">
+        <archive javadoc="jar:file:/C:/eclipse_import-github/commons/commons-configuration-1.10-javadoc.jar!/" path="C:/eclipse_import-github/commons/commons-configuration-1.10.jar" source="C:/eclipse_import-github/commons/commons-configuration-1.10-sources.jar"/>
+    </library>
     <library name="commons_lang_2.6" systemlibrary="false">
         <archive path="C:/eclipse_import-github/commons/commons-lang-2.6.jar"/>
     </library>
