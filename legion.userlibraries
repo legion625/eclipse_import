@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <eclipse-userlibraries version="2">
+    <library name="apache_tomcat_juli_9.0.60" systemlibrary="false">
+        <archive path="C:/eclipse_import-github/apache/apache_tomcat_juli_9.0.60.jar"/>
+    </library>
     <library name="aws_java_sdk_1.11.475" systemlibrary="false">
         <archive javadoc="jar:file:/C:/eclipse_import-github/aws_java_sdk_1.11.475/aws_java_sdk_1.11.475-javadoc.jar!/" path="C:/eclipse_import-github/aws_java_sdk_1.11.475/aws_java_sdk_1.11.475.jar" source="C:/eclipse_import-github/aws_java_sdk_1.11.475/aws_java_sdk_1.11.475-sources.jar"/>
         <archive path="C:/eclipse_import-github/aws_java_sdk_1.11.475/ion_java_1.0.2.jar"/>
