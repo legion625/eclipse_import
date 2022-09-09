@@ -40,6 +40,9 @@
     <library name="ekp_kernel_0.0.0" systemlibrary="false">
         <archive path="C:/eclipse_import-github/legion/ekp_kernel_rmi_client_0.0.0.jar" source="C:/eclipse_import-github/legion/ekp_kernel_rmi_client_source_0.0.0.jar"/>
     </library>
+    <library name="ekp_kernel_0.1.0" systemlibrary="false">
+        <archive path="C:/eclipse_import-github/legion/ekp_kernel_rmi_client_0.1.0.jar" source="C:/eclipse_import-github/legion/ekp_kernel_rmi_client_source_0.1.0.jar"/>
+    </library>
     <library name="excel_streaming_reader_2.3.5" systemlibrary="false">
         <archive path="C:/eclipse_import-github/excel-streaming-reader-2.3.5/excel-streaming-reader-2.3.5.jar"/>
         <archive path="C:/eclipse_import-github/excel-streaming-reader-2.3.5/poi-shared-strings-1.0.4.jar"/>
@@ -72,8 +75,8 @@
     <library name="json" systemlibrary="false">
         <archive path="C:/eclipse_import-github/org.json-20130603/org.json-20130603.jar" source="C:/eclipse_import-github/org.json-20130603/org.json-20130603-sources.jar"/>
     </library>
-    <library name="legion_module_0.10.3" systemlibrary="false">
-        <archive path="C:/eclipse_import-github/legion/legion_module_0.10.3.jar" source="C:/eclipse_import-github/legion/legion_module_src_0.10.3.jar"/>
+    <library name="legion_module_0.10.4" systemlibrary="false">
+        <archive path="C:/eclipse_import-github/legion/legion_module_0.10.4.jar" source="C:/eclipse_import-github/legion/legion_module_src_0.10.4.jar"/>
     </library>
     <library name="legion_module_0.4.0" systemlibrary="false">
         <archive path="C:/eclipse_import-github/legion/legion_module_0.4.0.jar"/>
