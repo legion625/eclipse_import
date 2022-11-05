@@ -210,4 +210,52 @@
     <library name="zk_zkforge_9.6.0.1" systemlibrary="false">
         <archive path="C:/eclipse_import-github/zk-9.6.0.1/dist/lib/zkforge/flashchart.jar"/>
     </library>
+    <library name="zkee_9.6.3(eval)" systemlibrary="false">
+        <archive path="C:/eclipse_import-github/zkee-bin-eval-9.6.3/dist/lib/za11y.jar"/>
+        <archive path="C:/eclipse_import-github/zkee-bin-eval-9.6.3/dist/lib/zcommon.jar"/>
+        <archive path="C:/eclipse_import-github/zkee-bin-eval-9.6.3/dist/lib/zel.jar"/>
+        <archive path="C:/eclipse_import-github/zkee-bin-eval-9.6.3/dist/lib/zhtml.jar"/>
+        <archive path="C:/eclipse_import-github/zkee-bin-eval-9.6.3/dist/lib/zk.jar"/>
+        <archive path="C:/eclipse_import-github/zkee-bin-eval-9.6.3/dist/lib/zkbind.jar"/>
+        <archive path="C:/eclipse_import-github/zkee-bin-eval-9.6.3/dist/lib/zkex.jar"/>
+        <archive path="C:/eclipse_import-github/zkee-bin-eval-9.6.3/dist/lib/zkmax.jar"/>
+        <archive path="C:/eclipse_import-github/zkee-bin-eval-9.6.3/dist/lib/zkplus.jar"/>
+        <archive path="C:/eclipse_import-github/zkee-bin-eval-9.6.3/dist/lib/zkplus-legacy.jar"/>
+        <archive path="C:/eclipse_import-github/zkee-bin-eval-9.6.3/dist/lib/zkwebfragment.jar"/>
+        <archive path="C:/eclipse_import-github/zkee-bin-eval-9.6.3/dist/lib/zml.jar"/>
+        <archive path="C:/eclipse_import-github/zkee-bin-eval-9.6.3/dist/lib/zul.jar"/>
+        <archive path="C:/eclipse_import-github/zkee-bin-eval-9.6.3/dist/lib/zuti.jar"/>
+        <archive path="C:/eclipse_import-github/zkee-bin-eval-9.6.3/dist/lib/zweb.jar"/>
+        <archive path="C:/eclipse_import-github/zkee-bin-eval-9.6.3/dist/lib/zweb-dsp.jar"/>
+    </library>
+    <library name="zkee_ext_9.6.3(eval)" systemlibrary="false">
+        <archive path="C:/eclipse_import-github/zkee-bin-eval-9.6.3/dist/lib/ext/bsh.jar"/>
+        <archive path="C:/eclipse_import-github/zkee-bin-eval-9.6.3/dist/lib/ext/closure-compiler.jar"/>
+        <archive path="C:/eclipse_import-github/zkee-bin-eval-9.6.3/dist/lib/ext/commons-collections4.jar"/>
+        <archive path="C:/eclipse_import-github/zkee-bin-eval-9.6.3/dist/lib/ext/commons-fileupload.jar"/>
+        <archive path="C:/eclipse_import-github/zkee-bin-eval-9.6.3/dist/lib/ext/commons-io.jar"/>
+        <archive path="C:/eclipse_import-github/zkee-bin-eval-9.6.3/dist/lib/ext/commons-logging.jar"/>
+        <archive path="C:/eclipse_import-github/zkee-bin-eval-9.6.3/dist/lib/ext/Filters.jar"/>
+        <archive path="C:/eclipse_import-github/zkee-bin-eval-9.6.3/dist/lib/ext/gson.jar"/>
+        <archive path="C:/eclipse_import-github/zkee-bin-eval-9.6.3/dist/lib/ext/itext.jar"/>
+        <archive path="C:/eclipse_import-github/zkee-bin-eval-9.6.3/dist/lib/ext/jasperreports.jar"/>
+        <archive path="C:/eclipse_import-github/zkee-bin-eval-9.6.3/dist/lib/ext/javassist.jar"/>
+        <archive path="C:/eclipse_import-github/zkee-bin-eval-9.6.3/dist/lib/ext/jcommon.jar"/>
+        <archive path="C:/eclipse_import-github/zkee-bin-eval-9.6.3/dist/lib/ext/jfreechart.jar"/>
+        <archive path="C:/eclipse_import-github/zkee-bin-eval-9.6.3/dist/lib/ext/slf4j-api.jar"/>
+        <archive path="C:/eclipse_import-github/zkee-bin-eval-9.6.3/dist/lib/ext/zsoup.jar"/>
+    </library>
+    <library name="zkee_forge_9.6.3(eval)" systemlibrary="false">
+        <archive path="C:/eclipse_import-github/zkee-bin-eval-9.6.3/dist/lib/zkforge/flashchart.jar"/>
+        <archive path="C:/eclipse_import-github/zkee-bin-eval-9.6.3/dist/lib/zkforge/gmapsz.jar"/>
+        <archive path="C:/eclipse_import-github/zkee-bin-eval-9.6.3/dist/lib/zkforge/timelinez.jar"/>
+        <archive path="C:/eclipse_import-github/zkee-bin-eval-9.6.3/dist/lib/zkforge/timeplotz.jar"/>
+        <archive path="C:/eclipse_import-github/zkee-bin-eval-9.6.3/dist/lib/zkforge/zuljsp.jar"/>
+    </library>
+    <library name="zkee_theme_9.6.3(eval)" systemlibrary="false">
+        <archive path="C:/eclipse_import-github/zkee-bin-eval-9.6.3/dist/lib/theme/breeze.jar"/>
+        <archive path="C:/eclipse_import-github/zkee-bin-eval-9.6.3/dist/lib/theme/iceblue_c.jar"/>
+        <archive path="C:/eclipse_import-github/zkee-bin-eval-9.6.3/dist/lib/theme/sapphire.jar"/>
+        <archive path="C:/eclipse_import-github/zkee-bin-eval-9.6.3/dist/lib/theme/silvertail.jar"/>
+    </library>
 </eclipse-userlibraries>
