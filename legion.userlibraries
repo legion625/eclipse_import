@@ -61,6 +61,9 @@
     <library name="ekp_kernel_0.1.6" systemlibrary="false">
         <archive path="C:/eclipse_import-github/legion/ekp_kernel_rmi_client_0.1.6.jar" source="C:/eclipse_import-github/legion/ekp_kernel_rmi_client_source_0.1.6.jar"/>
     </library>
+    <library name="ekp_kernel_0.1.7" systemlibrary="false">
+        <archive path="C:/eclipse_import-github/legion/ekp_kernel_rmi_client_0.1.7.jar" source="C:/eclipse_import-github/legion/ekp_kernel_rmi_client_source_0.1.7.jar"/>
+    </library>
     <library name="excel_streaming_reader_2.3.5" systemlibrary="false">
         <archive path="C:/eclipse_import-github/excel-streaming-reader-2.3.5/excel-streaming-reader-2.3.5.jar"/>
         <archive path="C:/eclipse_import-github/excel-streaming-reader-2.3.5/poi-shared-strings-1.0.4.jar"/>
