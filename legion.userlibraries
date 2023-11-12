@@ -40,8 +40,8 @@
     <library name="ekp_kernel_0.5.7" systemlibrary="false">
         <archive path="C:/eclipse_import-github/legion/ekp_kernel_rmi_client_0.5.7.jar" source="C:/eclipse_import-github/legion/ekp_kernel_rmi_client_source_0.5.7.jar"/>
     </library>
-    <library name="ekp_kernel_0.6.0" systemlibrary="false">
-        <archive path="C:/eclipse_import-github/legion/ekp_kernel_rmi_client_0.6.0.jar" source="C:/eclipse_import-github/legion/ekp_kernel_rmi_client_source_0.6.0.jar"/>
+    <library name="ekp_kernel_0.6.1" systemlibrary="false">
+        <archive path="C:/eclipse_import-github/legion/ekp_kernel_rmi_client_0.6.1.jar" source="C:/eclipse_import-github/legion/ekp_kernel_rmi_client_source_0.6.1.jar"/>
     </library>
     <library name="excel_streaming_reader_2.3.5" systemlibrary="false">
         <archive path="C:/eclipse_import-github/excel-streaming-reader-2.3.5/excel-streaming-reader-2.3.5.jar"/>
