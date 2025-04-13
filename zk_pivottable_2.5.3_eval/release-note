@@ -1,0 +1,196 @@
+Pivottable 2.5.3
+* Features
+* Bugs
+* Upgrade Notes
+
+        ---------
+Pivottable 2.5.2
+* Features
+* Bugs
+  ZKPVT-94: GroupHandler should not apply to data cells when exporting
+* Upgrade Notes
+
+        ---------
+Pivottable 2.5.1
+* Features
+* Bugs
+  ZKPVT-93: wrong page size after setDataFieldOrient
+* Upgrade Notes
+
+        ---------
+Pivottable 2.5.0
+* Features
+  ZKPVT-29: Frozen head in pivottable (optional) (without IE)
+  ZKPVT-29: Support vflex="1"
+* Bugs
+* Upgrade Notes
+
+        ---------
+Pivottable 2.4.0
+* Features
+  ZKPVT-88: export custom sheet names/order/visibility
+* Bugs
+  ZKPVT-87: XLSX Exporter doesn't export closed headerField state
+  ZKPVT-89: exporting creates redundant style elements in xlsx export
+  ZKPVT-91: autoColumnSize causes bad performance
+
+* Upgrade Notes
+  + ZKPVT-92: PivottableZKPVT-92 iteration over POI node lists causes bad performance
+    -> depends on the external jar zpoiex >= 3.9.13
+
+        ---------
+Pivottable 2.3.0.1
+* Features
+* Bugs
+* Upgrade Notes
+  + Fixing a maven packaging problem (no functional changes)
+
+        ---------
+Pivottable 2.3.0
+* Features
+
+* Bugs
+  ZKPVT-83: Column header height grows even it is not expanded
+  ZKPVT-21: Data Table is not align correctly when TITLE_ROW contains a lot of information (fixed by ZKPVT-83)
+  ZKPVT-84: Column labels missing when switching tab (fixed by ZKPVT-83)
+  ZKPVT-85: Cannot override sortTrees API in TabularPivotModel
+
+* Upgrade Notes
+  + (ZKPVT-85) The hook method TabularPivotModel.sortTrees() was deprecated. 
+    Alternative hook methods are provided: 
+    - TabularPivotModel.sortRowTree(SimplePivotHeaderTree)
+    - TabularPivotModel.sortColumnTree(SimplePivotHeaderTree) 
+
+        --------
+August 21, 2014
+Pivottable 2.2.0
+* Features
+  ZKPVT-65: Export to xlsx format as static report
+  ZKPVT-76: Allow user to use their own HSSFWorkbook or XSSFWorkbook to export pivottable
+  ZKPVT-77: Export to Excel can choose to use custom renderer for data cells
+  ZKPVT-80: Excel 2007 becomes the default export format
+
+* Bugs
+  ZKPVT-71: Pivottable is broken in Safari 7.0.1
+  ZKPVT-72: Pivottable is broken in Chrome 32
+  ZKPVT-73: PivotUIEvent returned the header context of the previous row
+  ZKPVT-74: Summary should be null if no data
+  ZKPVT-75: Export to excel xlsx format file can't be open correctly
+  ZKPVT-78: Exported XLS file did not pass Office File Validation when changed ZPOI version to 3.9.4
+  ZKPVT-79: Select subtotal function throw NPE if don't select any calculator
+
+* Upgrade Notes
+  + The API CellStyleConfigurator.getDateFormat(String) is renamed to CellStyleConfigurator.getDataFormat(String)
+  + Exports.exportExcel() supports a new fileFormat "xlsx.static" for exporting to xlsx as static report
+  + Export to excel xlsx format may throw an ExcelUnreadableException when the exported file will cause Excel to report an "unreadable content" error
+  + Please do not use ZPOI 3.9.4 if need to export to XLS format. Instead, please use ZPOI 3.9.3 or prior, or ZPOI 3.9.5 after 2014/08/15.  
+ 
+  --------
+December 10, 2013
+Pivottable 2.1.0
+* Features
+  ZKPVT-68: Compatible with ZK 7
+
+* Bugs
+  ZKPVT-66: Column title uses the width of row title
+  ZKPVT-67: Exception when adjust column width without data
+  ZKPVT-69: Tooltip causes JavaScript Error when no data fields
+
+* Upgrade Notes
+  + Pivotable 2.1.0+ is required if upgraded to ZK 7
+
+	--------
+Pivottable 2.0.3
+* Features
+
+* Bugs
+  ZKPVT-57: Pivottable broken with larger page size
+  ZKPVT-58: JS error in IE8
+  ZKPVT-60: Summary of value field is gone after change layout of pfc
+  ZKPVT-61: JS error when mouseover row title in IE8
+  ZKPVT-62: JS error when mouseover column title in IE8
+  ZKPVT-63: Pivottable broken when data column is shrunk
+  ZKPVT-64: Null pointer exception when exporting to xlsx format if field title is different from field name
+
+* Upgrade Notes
+
+	--------
+July 16, 2013
+Pivottable 2.0.2
+* Features
+  ZKPVT-48: Subtotals and summary in pivot field control should support i18n
+  ZKPVT-49: Hide paging if only one page
+  ZKPVT-50: Hide horizontal scroll bar if no need to scroll
+  ZKPVT-53: Create ZK Pivottable MyApp Project
+
+* Bugs
+  ZKPVT-26: Export grand total followed by pivottable config
+  ZKPVT-40: ArrayIndexOutOfBoundsException when removing the first of multiple data fields
+  ZKPVT-42: PivotHeaderNode.setOpen() does not update pivottable
+  ZKPVT-43: Sizes of "Grand Total For Columns" are in reverse sequence
+  ZKPVT-44: Fields should be all UNUSED by default
+  ZKPVT-46: Node expansion/collapse should trigger event
+  ZKPVT-47: Changing data field orientation caused "/ by zero" exception
+  ZKPVT-45: Incorrect Grand Total if no row fields and no column fields
+
+* Upgrade Notes
+  + Pivottable#invalidate() should be called after manipulating the model to update pivottable's view
+
+	--------
+Pivottable 2.0.1
+* Features
+  
+* Bugs
+  ZKPVT-30: Grand Total values do not convert to when you change the position of one of the measures
+  ZKPVT-14: column size adjust bar position is not correct
+* Upgrade Notes
+
+	--------  
+June 5, 2012
+Pivottable 2.0.0
+* Features
+  ZKPVT-24: Support export excel 2007 format (which exports to a real pivot table in Excel)
+* Bugs
+  ZKPVT-23: Export excel too many font problem
+* Upgrade Notes
+  + New algorithm for TabularPivotModel, which grants a 100%-400% speed boost
+    and saves more memory.
+  + Calculator type changed. For TabularPivotModel, user should choose Calculator
+    from enum StandardCalculator (instead of the old Calculators). 
+  + TabularPivotModel#getRawValues() removed along with its new implementation.
+  + TabularPivotField#setSummary() are replaced by TabularPivotModel#setFieldSummary().
+  + TabularPivotField#setSubtotal() are replaced by TabularPivotModel#setFieldSubtotal().
+
+	--------
+Mar 13, 2012
+Pivottable 1.1.0
+* Features
+  ZKPVT-2: Export to Excel
+  ZKPVT-20: Enhance PivotFieldControl to support deferred update
+* Bugs
+  ZKPVT-13: Data header filder label shall respect PivotRenderer
+  ZKPVT-19: Add Cell Title in doAfterCompose will cause exception
+
+	--------
+Nov 29, 2011
+Pivottable 1.0.0
+* Features
+  ZKPVT-5: Sizable column
+  ZKPVT-6: Provide API to specify custom style/class by cell
+  ZKPVT-7: Enhance header ordering (sorting) support
+  ZKPVT-9: Provide easier UI control for Pivottable 
+  
+* Bugs
+  ZKPVT-3: PagingInfo constructor shall provide information about IllegalArgumentException
+  ZKPVT-4: Customize column size doesn't work correctly 
+
+	--------
+Pivottable 1.0.0-beta
+* Features
+  Support 0 to many row/column fields
+  Support 1 to many data fields
+  Support open/close header node
+  Support paging
+  Support subtotal
+  Support hide/show grand total
+  Support events
