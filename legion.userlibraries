@@ -99,6 +99,9 @@
     <library name="legion_module_0.14.0" systemlibrary="false">
         <archive path="C:/eclipse_import-github/legion/legion_module_0.14.0.jar" source="C:/eclipse_import-github/legion/legion_module_src_0.14.0.jar"/>
     </library>
+    <library name="legion_module_0.15.0" systemlibrary="false">
+        <archive path="C:/eclipse_import-github/legion/legion_module_0.15.0.jar" source="C:/eclipse_import-github/legion/legion_module_src_0.15.0.jar"/>
+    </library>
     <library name="legion_module_0.7.1" systemlibrary="false">
         <archive path="C:/eclipse_import-github/legion/legion_module_0.7.1.jar"/>
     </library>
